@@ -1,5 +1,5 @@
 # ComparativeMarkerSelection
-GenePattern ComparativeMarkerSelection module.
+GenePattern Comparative Marker Selection module.
 
 Under construction.
 
